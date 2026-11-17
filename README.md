@@ -70,7 +70,7 @@ Mi objetivo es continuar fortaleciendo mis habilidades y participar en proyectos
 **Sistema de Agendamiento Inteligente**
 
 <p align="center">
-  <a href="PEGA_AQUI_EL_ENLACE_DE_LILI_STILO">
+  <a href="(https://github.com/Yulieth50/Spa_funcional.git)">
     <img src="https://img.shields.io/badge/🌸_LILI_STILO-Sistema_de_Agendamiento-D9889B?style=for-the-badge" />
   </a>
 </p>
